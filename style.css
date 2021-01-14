@@ -1,0 +1,33 @@
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.panda-cetegories img{
+    width: 100px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.btn-customized{
+    border-radius: 7px;
+    background-image: linear-gradient( #ff4592, #ff2373);
+    color: white;
+    border:0px;
+    padding: 10px 25px;
+}
+.carousel-price{
+    color: #ff236f;
+}
+.panda-bag{
+    background-color: #da70d6;
+}
+.panda-shoes{
+    background-color: #0001ff;
+}
+.panda-watch{
+    background-color: #ffa500;
+}
